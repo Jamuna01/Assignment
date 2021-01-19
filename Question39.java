@@ -1,5 +1,5 @@
 /*
- * Write a Program to display names in 
+  * Write a Program to display names in 
  * 
  * short form. E.g. Ram Kishore Singh  -> R. k. Singh
 
